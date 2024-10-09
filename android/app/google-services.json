@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331982447534",
+    "project_id": "loginsignupauth-594c1",
+    "storage_bucket": "loginsignupauth-594c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331982447534:android:d9ed52ff386514cbbb9e3f",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupwithauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGZjDM7L116ARAYW5B4vOHVHgXxwZZTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
