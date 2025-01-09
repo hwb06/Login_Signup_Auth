@@ -10,17 +10,18 @@
 - **Signup Screen** With user fields.
 - Customer Dashboard.
 
-  ## ♥ **Tᴇᴄʜɴɪᴄᴀʟ Oᴠᴇʀᴠɪᴇᴡ**:
-  - Built with Flutter
-  - Static UI implementation
-  - Material Design components
-  - Focused on UI/UX design patterns
-  - Demonstration of layout structuring
+## ♥ **Tᴇᴄʜɴɪᴄᴀʟ Oᴠᴇʀᴠɪᴇᴡ**:
+- Built with Flutter
+- Static UI implementation
+- Material Design components
+- Focused on UI/UX design patterns
+- Demonstration of layout structuring
 
 ## ♥ **Bᴜɪʟᴛ Wɪᴛʜ**:
 - 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗗𝗮𝗿𝘁 for sleek, cross-platform functionality. 
 
 - This is a UI-only implementation meant to showcase Flutter interface design capabilities.
+  
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
