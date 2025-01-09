@@ -2,6 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
+import 'package:login_signup_with_auth/screens/customer_welcome_screen.dart';
 import 'package:login_signup_with_auth/screens/login.dart';
 import 'package:login_signup_with_auth/screens/splash.dart';
 
