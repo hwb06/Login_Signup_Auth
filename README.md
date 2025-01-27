@@ -25,10 +25,8 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Splash Screen](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/Splash%20Screen.JPG?raw=true)  
-![Login Screen](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/Login%20Screen.JPG?raw=true)  
-![Signup Screen](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/SignUp%20Screen.JPG?raw=true)  
-![Customer Dashboard](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/Main%20Dashboard.JPG?raw=true)  
+![Splash Screen](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/01.png)  
+![Login Screen](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/02.png)    
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
