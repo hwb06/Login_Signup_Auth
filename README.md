@@ -25,7 +25,7 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Splash Screen](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/01.png)  
+![Splash Screen](https://github.com/hwb06/Flutter_Daily_CalculatorApp/blob/main/assets/Project%20Showcase/01.png)  
 ![Login Screen](https://github.com/hwb06/Login_Signup_Auth/blob/master/App_UI_Screen/02.png)    
 
 ## **Contact Information**
